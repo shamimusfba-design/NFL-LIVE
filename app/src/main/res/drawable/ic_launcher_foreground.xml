@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Factory sawtooth roof and production facility outline -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,76 L24,52 L36,42 L36,52 L48,42 L48,52 L60,42 L60,52 L72,42 L72,52 L84,42 L84,76 Z" />
+    <!-- Chimney / exhaust stack -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M28,34 L34,34 L34,48 L28,48 Z" />
+    <!-- Garment T-shirt symbol in center -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M54,54 C51.8,54 50,55.8 50,58 L46,60 L44,56 L38,58 L41,69 L46,68 L46,74 L62,74 L62,68 L67,69 L70,58 L64,56 L62,60 L58,58 C58,55.8 56.2,54 54,54 Z" />
+    <!-- Quality Checkmark in bright gold/green -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M66,32 L60,26 L63,23 L66,26 L75,17 L78,20 Z" />
+    <!-- NFL production gauge bar base -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M32,71 L76,71 L76,73 L32,73 Z" />
+</vector>
